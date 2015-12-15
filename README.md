@@ -1,6 +1,16 @@
+[![Latest Stable Version](https://poser.pugx.org/ikoene/symfony-micro/v/stable)](https://packagist.org/packages/ikoene/symfony-micro) [![Total Downloads](https://poser.pugx.org/ikoene/symfony-micro/downloads)](https://packagist.org/packages/ikoene/symfony-micro) [![Latest Unstable Version](https://poser.pugx.org/ikoene/symfony-micro/v/unstable)](https://packagist.org/packages/ikoene/symfony-micro) [![License](https://poser.pugx.org/ikoene/symfony-micro/license)](https://packagist.org/packages/ikoene/symfony-micro)
+
 # Symfony micro-framework
 
 Use Symfony as a microframework.
+
+## Installation
+
+Create a new project with [Composer](https://getcomposer.org/).
+
+```bash
+composer create-project ikoene/symfony-micro
+```
 
 ## MicroKernelTrait
 
