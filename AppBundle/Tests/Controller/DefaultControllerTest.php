@@ -15,9 +15,6 @@ class DefaultControllerTest extends WebTestCase
 
         $crawler = $client->request('GET', '/');
 
-        $this->assertContains(
-            'Welcome to your Symfony Micro-Framework.',
-            $client->getResponse()->getContent()
-        );
+        $this->assertEquals(200, $client->getResponse()->getStatusCode());
     }
 }
