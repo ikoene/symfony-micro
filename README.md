@@ -1,4 +1,8 @@
-[![Latest Stable Version](https://poser.pugx.org/ikoene/symfony-micro/v/stable)](https://packagist.org/packages/ikoene/symfony-micro) [![Total Downloads](https://poser.pugx.org/ikoene/symfony-micro/downloads)](https://packagist.org/packages/ikoene/symfony-micro) [![Latest Unstable Version](https://poser.pugx.org/ikoene/symfony-micro/v/unstable)](https://packagist.org/packages/ikoene/symfony-micro) [![License](https://poser.pugx.org/ikoene/symfony-micro/license)](https://packagist.org/packages/ikoene/symfony-micro)
+[![Build Status](https://travis-ci.org/ikoene/symfony-micro.svg?branch=master)](https://travis-ci.org/ikoene/symfony-micro)
+[![Latest Stable Version](https://poser.pugx.org/ikoene/symfony-micro/v/stable)](https://packagist.org/packages/ikoene/symfony-micro)
+[![Total Downloads](https://poser.pugx.org/ikoene/symfony-micro/downloads)](https://packagist.org/packages/ikoene/symfony-micro)
+[![Latest Unstable Version](https://poser.pugx.org/ikoene/symfony-micro/v/unstable)](https://packagist.org/packages/ikoene/symfony-micro)
+[![License](https://poser.pugx.org/ikoene/symfony-micro/license)](https://packagist.org/packages/ikoene/symfony-micro)
 
 # Symfony micro-framework
 
