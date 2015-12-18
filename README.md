@@ -62,6 +62,14 @@ While this is a microframework, chances are you'll still need the console. Use i
 ./console
 ```
 
+### PHPUnit Testing
+
+Run all tests with this command:
+
+```bash
+bin/phpunit -c .
+```
+
 # Additional info
 
 [Building your own Framework with the MicroKernelTrait](https://symfony.com/doc/2.8/cookbook/configuration/micro-kernel-trait.html)

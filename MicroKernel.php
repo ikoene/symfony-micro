@@ -7,7 +7,7 @@ use Symfony\Component\HttpKernel\Kernel;
 use Symfony\Component\Routing\RouteCollectionBuilder;
 
 /**
- * @author Koen Vinken <koen.vinken@wijs.be>
+ * @author Koen Vinken <vinkenkoen@gmail.com>
  */
 class MicroKernel extends Kernel
 {

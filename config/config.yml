@@ -3,3 +3,6 @@ framework:
     assets: ~
     templating:
         engines: ['twig']
+
+parameters:
+    kernel.secret: ThisTokenIsNotSoSecretChangeIt
