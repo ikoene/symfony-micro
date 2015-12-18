@@ -5,7 +5,7 @@ namespace AppBundle\Tests\Controller;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
 /**
- * @author Koen Vinken <koen.vinken@wijs.be>
+ * @author Koen Vinken <vinkenkoen@gmail.com>
  */
 class DefaultControllerTest extends WebTestCase
 {
