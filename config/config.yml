@@ -2,7 +2,7 @@ imports:
     - { resource: parameters.yml }
 
 framework:
-    secret: ThisTokenIsNotSoSecretChangeIt
+    secret: %kernel.secret%
     assets: ~
     templating:
         engines: ['twig']
