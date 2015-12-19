@@ -1,8 +1,7 @@
 [![Build Status](https://travis-ci.org/ikoene/symfony-micro.svg?branch=master)](https://travis-ci.org/ikoene/symfony-micro)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7a556c44-8128-49e0-ac7e-d6f601d7fec7/mini.png)](https://insight.sensiolabs.com/projects/7a556c44-8128-49e0-ac7e-d6f601d7fec7)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/7a556c44-8128-49e0-ac7e-d6f601d7fec7.svg)](https://insight.sensiolabs.com/projects/7a556c44-8128-49e0-ac7e-d6f601d7fec7)
 [![Latest Stable Version](https://poser.pugx.org/ikoene/symfony-micro/v/stable)](https://packagist.org/packages/ikoene/symfony-micro)
 [![Total Downloads](https://poser.pugx.org/ikoene/symfony-micro/downloads)](https://packagist.org/packages/ikoene/symfony-micro)
-[![Latest Unstable Version](https://poser.pugx.org/ikoene/symfony-micro/v/unstable)](https://packagist.org/packages/ikoene/symfony-micro)
 [![License](https://poser.pugx.org/ikoene/symfony-micro/license)](https://packagist.org/packages/ikoene/symfony-micro)
 
 # Symfony micro-framework
