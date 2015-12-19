@@ -1,8 +1,8 @@
+imports:
+    - { resource: parameters.yml }
+
 framework:
     secret: ThisTokenIsNotSoSecretChangeIt
     assets: ~
     templating:
         engines: ['twig']
-
-parameters:
-    kernel.secret: ThisTokenIsNotSoSecretChangeIt
