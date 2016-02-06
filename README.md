@@ -31,7 +31,7 @@ These bundles are registered in the MicroKernel:
 
 While you could argue what exactly should and should not be included in a microframework, I found myself always using these bundles. So they're enabled by default. Don't want to use Twig as your template engine? Remove it here.
 
-When working in a *dev* or *test* environment, the **MicroKernel** also registers the necesarry bundles to be able to debug you project:
+When working in a *dev* or *test* environment, the **MicroKernel** also registers the necesarry bundles to be able to debug your project:
 
 * [WebProfilerBundle](https://github.com/symfony/web-profiler-bundle)
 * [DebugBundle](https://github.com/symfony/debug-bundle)
