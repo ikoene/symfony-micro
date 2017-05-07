@@ -3,9 +3,7 @@
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/7a556c44-8128-49e0-ac7e-d6f601d7fec7.svg)](https://insight.sensiolabs.com/projects/7a556c44-8128-49e0-ac7e-d6f601d7fec7)
 [![Packagist](https://img.shields.io/packagist/v/ikoene/symfony-micro.svg)](https://packagist.org/packages/ikoene/symfony-micro)
 [![Installs](https://img.shields.io/packagist/dt/ikoene/symfony-micro.svg)](https://packagist.org/packages/ikoene/symfony-micro)
-[![license](https://img.shields.io/github/license/ikoene/symfony-micro.svg)]
-(https://github.com/ikoene/symfony-micro/blob/master/LICENSE.md)
-
+[![license](https://img.shields.io/github/license/ikoene/symfony-micro.svg)](https://github.com/ikoene/symfony-micro/blob/master/LICENSE.md)
 
 # Symfony micro-framework
 
