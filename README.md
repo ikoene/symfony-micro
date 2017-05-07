@@ -6,6 +6,7 @@
 [![license](https://img.shields.io/github/license/ikoene/symfony-micro.svg)]
 (https://github.com/ikoene/symfony-micro/blob/master/LICENSE.md)
 
+
 # Symfony micro-framework
 
 Use Symfony as a microframework.
