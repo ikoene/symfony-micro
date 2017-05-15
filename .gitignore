@@ -3,3 +3,4 @@
 /bin
 /web/bundles
 composer.lock
+.idea
