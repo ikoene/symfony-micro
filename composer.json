@@ -2,15 +2,15 @@
     "name": "ikoene/symfony-micro",
     "license": "MIT",
     "type": "project",
-    "description": "Symfony3.0 Micro Trait application",
+    "description": "Symfony 3 Micro Trait application",
     "autoload": {
         "psr-4": {
             "AppBundle\\": "AppBundle/"
         }
     },
     "require": {
-        "symfony/symfony": "3.0.*",
-        "sensio/framework-extra-bundle": "^3.0.2"
+        "symfony/symfony": "~3.2",
+        "sensio/framework-extra-bundle": "~3.0,>=3.0.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.5"
