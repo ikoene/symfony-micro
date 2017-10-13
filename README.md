@@ -19,7 +19,7 @@ composer create-project ikoene/symfony-micro
 
 ## MicroKernelTrait
 
-The **MicroKernelTrait** allows you to create a fully-functional Symfony application in as little as one file. It allows you to start with a tiny application, and then add features and structure as you need to. Its goal to give you the power to choose your bundles and structure.
+The **MicroKernelTrait** allows you to create a fully-functional Symfony application in as little as one file. It allows you to start with a tiny application, and then add features and structure as you need to. Its goal to give you the power to choose your bundles and structure. Since you're only enabling features and bundles you're actually going to use, your application gets a performance boost in comparison with using the Symfony full-stack framework. 
 
 ## Bundles
 
@@ -29,7 +29,7 @@ These bundles are registered in the MicroKernel:
 * [SensioFrameworkExtraBundle](https://github.com/sensiolabs/SensioFrameworkExtraBundle)
 * [TwigBundle](https://github.com/symfony/twig-bundle)
 
-While you could argue what exactly should and should not be included in a microframework, I found myself always using these bundles. So they're enabled by default. Don't want to use Twig as your template engine? Remove it here.
+While you could argue what exactly should and should not be included in a microframework, I found myself always using these bundles. So they're enabled by default. Don't want to use Twig as your template engine? Remove it in the MicroKernel.
 
 When working in a *dev* or *test* environment, the **MicroKernel** also registers the necesarry bundles to be able to debug your project:
 
@@ -40,7 +40,7 @@ When working in a *dev* or *test* environment, the **MicroKernel** also register
 
 ### Development
 
-Build your application in the AppBundle. You're free to structure your application as you want, but following the typical Symfony bundle structure has it's advantages. For one, it would be easier to migrate to a full stack Symfony project if your application grows too big.
+Build your application in the AppBundle. You're free to structure your application as you want, but following the typical Symfony bundle structure has it's advantages. For one, it would be easier to migrate to a full-stack Symfony project if your application grows too big.
 
 But, as I said, the choice is yours.
 
@@ -53,8 +53,8 @@ Missing some features? Register your bundles in the MicroKernel:
 	$bundles = array(
 		new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
 		new Symfony\Bundle\TwigBundle\TwigBundle(),
-        new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-        new AppBundle\AppBundle(),
+		new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
+		new AppBundle\AppBundle(),
 	);
 ...
 ```
