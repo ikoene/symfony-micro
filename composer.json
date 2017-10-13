@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "symfony/symfony": "~3.2",
+        "symfony/symfony": "~3.3",
         "sensio/framework-extra-bundle": "~3.0,>=3.0.2"
     },
     "require-dev": {
